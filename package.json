@@ -1,13 +1,23 @@
 {
   "name": "self-respect",
   "version": "1.0.0",
-  "description": "",
+  "description": "Finally, a package that gives you what you clearly don't have: self-respect.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "postinstall": "node index.js"
   },
-  "keywords": [],
+  "keywords": [
+    "self-respect",
+    "developer",
+    "well-being",
+    "mental-health",
+    "humor"
+  ],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.8.0"
+  "packageManager": "pnpm@10.8.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/self-respect.git"
+  }
 }

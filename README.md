@@ -7,8 +7,8 @@ Enjoy the placebo effect. 😎
 Running this function will NOT magically fix your life.
 But hey, at least you can call it:
 ```javascript
-const selfRespect = require('self-respect');
-selfRespect();
+const displayManifesto = require('self-respect');
+displayManifesto();
 ```
 
 Now go drink some water and maybe think about what you're doing. 🍵
@@ -26,6 +26,6 @@ npm install self-respect
 Once installed, you can also programmatically invoke the manifesto:
 
 ```javascript
-const selfRespect = require('self-respect');
-selfRespect();
+const displayManifesto = require('self-respect');
+displayManifesto();
 ```

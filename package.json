@@ -1,8 +1,9 @@
 {
   "name": "self-respect",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Finally, a package that gives you what you clearly don't have: self-respect.",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "postinstall": "node index.js"
   },
